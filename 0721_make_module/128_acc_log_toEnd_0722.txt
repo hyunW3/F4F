@@ -1,0 +1,1 @@
+Eval epoch acc of model on imagenet : 0.0980 %

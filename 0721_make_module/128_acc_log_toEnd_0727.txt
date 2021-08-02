@@ -1,0 +1,12 @@
+Eval acc of model on imagenet : 0.1540 %
+Eval acc of model on imagenet : 0.0800 %
+Eval acc of model on imagenet : 0.0760 %
+Eval acc of model on imagenet : 0.0820 %
+Eval acc of model on imagenet : 0.0920 %
+Eval acc of model on imagenet : 0.0900 %
+Eval acc of model on imagenet : 0.0980 %
+Eval acc of model on imagenet : 0.0920 %
+Eval acc of model on imagenet : 0.0900 %
+Eval acc of model on imagenet : 0.0920 %
+Eval acc of model on imagenet : 0.0900 %
+Eval acc of model on imagenet : 0.0920 %
